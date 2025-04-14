@@ -26,31 +26,33 @@ public class MathApp {
         System.out.println ( "area of the circle is " + area );
 
         double number = 5.0;
-        double Square root = Math square (number);
-        System.out.println("The square root of " + number + " is:" +square root);
+        double squareroot = Math.sqrt(number);
+        System.out.println("The square root of " + number + " is:" +squareroot);
 
 
-       double * x1 =5;
-       double * x2 = 85;
-       double * y1 = 10;
-       double * y2 = 50;
-       #calculate the distance using the formula we googled
+       double  x1 =5;
+       double  x2 = 85;
+       double  y1 = 10;
+       double y2 = 50;
 
-       Double distance = Math.sqrt(Math.pow(x2 -x1,2) + Math.pow(y2-y1,2));
-       #print out the distance for the user
+       //calculate the distance using the formula we googled
+
+       double distance = Math.sqrt(Math.pow(x2 -x1,2) + Math.pow(y2-y1,2));
+     //  print out the distance for the user
 
        System.out.println("The distance is:" + distance);
 
 
       double x = -3.8;
-      double absValue = Math.abd(x);
+      double absValue = Math.abs(x);
       //print out the absolute value
-      System.out.println(The absolut value of " + x +" is: " +absValue);
+
+      System.out.println("The abs value of " + x +" is: " +absValue);
 
 
-      System.out.println("A random number between 0 and 1 is : " + Math.radom() * (100-20 +1) +1);
+      System.out.println("A random number between 0 and 1 is : " + Math.random() * (100-20 +1) +1);
 
-      if(MAth.random() > .8);
+
 
 
 
