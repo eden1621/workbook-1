@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="038eb9c2-70d5-4d97-a09a-452a7dd50f88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../first-maven-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first-maven-project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first-maven-project/src/main/java/com/pluralsight/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pluralsight/ShoppingList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pluralsight/ShoppingList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

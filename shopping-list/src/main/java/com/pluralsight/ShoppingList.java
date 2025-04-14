@@ -2,7 +2,15 @@ package com.pluralsight;
 
 public class ShoppingList {
     public static void main(String[] args) {
-        System.out.println("shopping List:");
+        String firstName = "eden";
+        String lastName = "mengistu";
+        String fullName = firstName + " " + lastName;
+
+        int myNumber =4;
+        System.out.println(myNumber++);
+        System.out.println(myNumber);
+
+        System.out.println("watermelon:");
         System.out.println("apple:");
         System.out.println("banana:");
         System.out.println("orange:");
@@ -11,6 +19,9 @@ public class ShoppingList {
         System.out.println("blueberry:");
         System.out.println("strawberry:");
         System.out.println("cabbage:");
+        System.out.println(firstName);
+        System.out.println(lastName);
+        System.out.println(fullName);
     }
 
 
