@@ -16,5 +16,7 @@ public class PayrollCalculator {
 
         //prompt for pay rate
         System.out.print("Enter pay rate: ");
+
+        
     }
 }
